@@ -4,5 +4,5 @@ pandas
 selenium
 scikit-learn
 sqlite3
-huawi-lte-api
+huawei-lte-api
 undetected-chromedriver
